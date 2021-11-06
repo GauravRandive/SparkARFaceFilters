@@ -1,6 +1,8 @@
 # SparkARFaceFilters
 Face filters made on Facebook's SparkAR Studio for Instagram.
 
+It is Recommended that you use Instagram app on your cell phone to access these links.
+
 Eye Blink filter link: https://www.instagram.com/ar/3039324392949860/?ch=OWI2ZjdlZGZiZjAwZDdhMThhYWQ5OGM0OWQ3NTk1Mzc%3D
 
 Description: Whenever the user blinks, the eye color changes to different colours.
